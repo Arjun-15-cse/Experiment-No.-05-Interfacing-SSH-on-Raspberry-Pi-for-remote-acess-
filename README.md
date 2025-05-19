@@ -1,8 +1,8 @@
 # Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
-### NAME
-### ROLL NO:
-### DEPARTMENT 
-### DATE
+### NAME : ARJUN K
+### ROLL NO : 212224040028
+### DEPARTMENT : CSE
+### DATE : 19.05.2025
 
 
 
